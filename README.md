@@ -6,7 +6,7 @@
  
  https://www.linkedin.com/in/lucie-simatovic/
  
- http://luciesimatovic.com/
+
 <!--
 **Noigrume/Noigrume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
