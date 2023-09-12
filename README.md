@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Vue.js, Synfony5, Laravel8, Sass, PHP, JavaScript
+🌱 I’m currently learning Vue.js, Laravel8, Sass, PHP, JavaScript
 
  📫 How to reach me:
  
