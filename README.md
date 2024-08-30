@@ -1,5 +1,7 @@
+🤯 Currently working on a fillable PDF maker with Django 
+ 
 
-
+<!--
 👋 Hi there ! I'm Lucie, a Junior Web Developer on a quest of growth and learning. 🚀
 
 🌐 Currently, I'm immersed in the world of web development, honing my skills with Laravel, Vue.js & React.
@@ -9,9 +11,6 @@
 🌟 I might (definitely) have neglected GitHub for a while, but I'm back and committed to sharing my coding journey 💡
 
 Let's code 🖥️
- 
-
-<!--
 **Noigrume/Noigrume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
