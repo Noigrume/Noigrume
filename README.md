@@ -1,5 +1,3 @@
-🤯 Currently working on a fillable PDF maker with Django 
- 
 
 <!--
 👋 Hi there ! I'm Lucie, a Junior Web Developer on a quest of growth and learning. 🚀
